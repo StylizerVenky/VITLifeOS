@@ -2,7 +2,7 @@
 
 A café-inspired student planner that runs in your browser. The application is written in Python with Streamlit; a small inline style block adds button transitions and decorative animation. No separate frontend or JavaScript code is needed.
 
-## Run on your Mac
+## Run on your WINDOWS
 
 Extract the ZIP first. Open Terminal, type `cd ` (including a space), drag the extracted `VIT-Life-OS-Streamlit` folder into the Terminal window, and press Enter. Then run these commands one at a time:
 
